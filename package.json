@@ -1,0 +1,9 @@
+{
+  "name": "rpctest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "1.8.1"
+  }
+}
